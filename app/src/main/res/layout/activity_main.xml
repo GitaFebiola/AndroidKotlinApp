@@ -20,21 +20,21 @@
         android:id="@+id/btnAddNumber"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:text="Add Number"
+        android:text="@string/add_number"
         android:layout_marginTop="10dp" />
 
     <Button
         android:id="@+id/btnSubtractNumber"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:text="Subtract Number"
+        android:text="@string/subtract_number"
         android:layout_marginTop="10dp" />
 
     <Button
         android:id="@+id/btnResetNumber"
         android:layout_width="200dp"
         android:layout_height="wrap_content"
-        android:text="Reset Number"
+        android:text="@string/Reset_number"
         android:layout_marginTop="10dp" />
 
 
